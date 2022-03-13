@@ -1,5 +1,4 @@
-# Target-Market-Analysis---JDS-Capstone
-Tarket Market Analysis using Supervised Machine Learning from customers' historical purchase data
+# Target Market Analysis Using Supervised Machine Learning From Customers' Historical Purchase Data.
 
 This project was part of my group capstone during Junior Data Scientist Program by The Center of Applied Data Science(CADS)
 
