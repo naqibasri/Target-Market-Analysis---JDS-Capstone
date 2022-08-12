@@ -1,4 +1,4 @@
-# Target Market Analysis Using Supervised Machine Learning From Customers' Historical Purchase Data.
+# Target Market Analysis Using Supervised Machine Learning From Customers' Historical Purchase Data. 
 
 This project was part of my group capstone during Junior Data Scientist Program by The Center of Applied Data Science(CADS)
 * Designed a predictive model to determine the potential customers who will purchase after we send an advertisement.
